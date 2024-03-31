@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnh7iwLgAnqZEMMMBDpUTbEOxC/bOKPPrlmgamYiNJviehhXhpYq4w8HWaH+xqIKFxXpglFYW896xKLiFY6JeA==",
+  "success": true,
+  "projectFilePath": "/workspaces/TryNewThings/MainGame/MainGame.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

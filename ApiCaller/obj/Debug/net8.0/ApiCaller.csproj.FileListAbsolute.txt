@@ -1,0 +1,13 @@
+/workspaces/TryNewThings/ApiCaller/bin/Debug/net8.0/ApiCaller.deps.json
+/workspaces/TryNewThings/ApiCaller/bin/Debug/net8.0/ApiCaller.dll
+/workspaces/TryNewThings/ApiCaller/bin/Debug/net8.0/ApiCaller.pdb
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.AssemblyInfoInputs.cache
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.AssemblyInfo.cs
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.csproj.CoreCompileInputs.cache
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.sourcelink.json
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.dll
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/refint/ApiCaller.dll
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.pdb
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ref/ApiCaller.dll
+/workspaces/TryNewThings/ApiCaller/obj/Debug/net8.0/ApiCaller.csproj.AssemblyReference.cache
