@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCaller")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7ff47585bee8cca89bc21b9b79fe1b4efcd7265")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3496f26dc7101f61103e2cce31227df4e90e6738")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCaller")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCaller")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

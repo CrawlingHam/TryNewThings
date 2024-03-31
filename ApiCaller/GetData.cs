@@ -5,7 +5,7 @@ namespace ApiCaller;
 
 public class GetData
 {
-    public static void something(dynamic contentObj)
+    public static void DetermineApiToCall(dynamic contentObj)
     {
         /*  The keys inside JObject contentObj signifies which
             API was called. By checking which key is inside contentObj,

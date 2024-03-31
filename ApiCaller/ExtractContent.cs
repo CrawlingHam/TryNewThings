@@ -16,7 +16,7 @@ public class ExtractData
         dynamic? contentObj = JsonConvert.DeserializeObject<dynamic>(content);
         if (contentObj is not null)
         {
-            GetData.something(contentObj);
+            GetData.DetermineApiToCall(contentObj);
         }
         else
         {
